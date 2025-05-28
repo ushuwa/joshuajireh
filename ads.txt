@@ -1,1 +1,2 @@
+redirect https://ads.txt.ezoic.com/joshuajireh.info
 
